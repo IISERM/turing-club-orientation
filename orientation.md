@@ -6,13 +6,25 @@ date: \today
 slideNumber: true
 ---
 
-# Hello MS-20!
+# Hello MS-21!
+
+---
+
+Faculty Incharge: Dr. Vaibhav Vaish
+
+Convener: James
+
+Co-Convener: Nikhil Bansal and Ansh Mishra
 
 ## Who we are
 
 Turing Club is a group of students who feel that Computers are more than just tools to make pdfs.
 
 ![](dp.jpeg)
+
+---
+
+We are people who code for science, for building the digital world and obviously for fun.
 
 # Computers in Science
 
@@ -23,14 +35,13 @@ Computers have been extremely useful in Science. Physics, Bio, Chem Math... lite
 ## Related Events
 
 - Student talks
-  - Graph Theory(with **Infinity**) - _Naman Gupta_
   - Quantum Computing(with **$\Phi$@I**) - _Dhruva Sambrani_
 - Faculty talks
   - Computational Quantum Mechanics(with **Curie**) - _Prof. Balanarayan_
 - Science Hackathons
   - Darwin-Hackathon(with **Darwin Club**)
   - Code-the-Matrix(with **$\Phi$@I**)
-- Foundation Day 2019(with **Infinity**)
+- egg-paratha(Computational Physics sessions)
 
 ---
 
@@ -72,7 +83,7 @@ Obviously we also explore the beautiful world of computers and applications of t
 ## Related Events
 
 - Functional Programming - _Prof. Shane D'Mello_
-- Machine Learning - _Nitishwer_
+- Machine Learning - _Sayar_
 - Cyber Security - _Vineet_
 - Web designing - _Vineet_
 - Arduino in Python - **Robotics Club**
@@ -80,6 +91,8 @@ Obviously we also explore the beautiful world of computers and applications of t
 ---
 
 ![Cyber Security Event](event.jpeg)
+.
+.
 
 # Fun events
 
@@ -95,13 +108,33 @@ Obviously we also explore the beautiful world of computers and applications of t
 
 ![THunt](turinghunt/3.jpeg)
 
-## Code Golf
 
-Make the shortest(counting each and every character) or the fastest running code for the same question.
+# Building the digital world
+
+## An online election system for IISERM
+
+[https://iiserm.github.io/poll-app](https://iiserm.github.io/poll-app)
+
+## This presentation
+
+# That was our past
+
+# Now, to the future
+
+---
+
+- Virtual Treasure Hunt
+- CFFS(an open-ended science hackathon between IISERs)
+- Talk series on Computers in Science
+- Turing Week
+- Competitive Programming Oriented Sessions
+- Casual Coding Hangouts
 
 # We Don't Just Explore Worlds, We Build Them!
 
 [https://iiserm.github.io/turing-club](https://iiserm.github.io/turing-club)
+
+# Thank You
 
 ## Links and Attributes
 
