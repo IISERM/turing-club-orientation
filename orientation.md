@@ -127,13 +127,13 @@ The club set up a discord server where the student community could exchange codi
 <img src="discord_imse.jpeg" width="400">
 <br/>Discord Server
 
-# Follow us
+# Follow us on Instagram
 
-<b>Twitter</b>&rarr; Turing_IISERM
+<img src="insta.jpeg" width="300">
 
-<b>Instagram</b>&rarr; turing_iiserm
+# Follow us on Twitter
 
-<b>Github</b>&rarr; https://github.com/IISERM
+<img src="twitter.jpeg" width="300">
 
 
 # Thank You
