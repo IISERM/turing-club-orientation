@@ -135,6 +135,10 @@ The club set up a discord server where the student community could exchange codi
 
 <img src="twitter.jpeg" width="300">
 
+# Follow us on github
+
+<img src="github.png" width="300">
+
 
 # Thank You
 
