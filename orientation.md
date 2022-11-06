@@ -1,20 +1,19 @@
 ---
 title: Turing Club Orientation
-author: Turing Club
 theme: black
 date: \today
 slideNumber: true
 ---
 
-# Hello MS-21!
+# Hello MS-22!
 
 ---
 
 Faculty Incharge: Dr. Vaibhav Vaish
 
-Convener: James
+Convener: Aditya Jain
 
-Co-Convener: Nikhil Bansal and Ansh Mishra
+Co-Convener: Kaushik Gupta and Ahir Ghosh
 
 ## Who we are
 
@@ -30,18 +29,18 @@ We are people who code for science, for building the digital world and obviously
 
 ---
 
-Computers have been extremely useful in Science. Physics, Bio, Chem Math... literally every subject has progressed in leaps and bounds with the advent of faster calculations, better visualisations and easier data.
+Computers have been extremely useful in Science. Physics, Biology, Chemistry, Mathematics... literally every subject has progressed in leaps and bounds with the advent of faster calculations, better visualisations and easier data.
 
-## Related Events
+## Last Year
 
-- Student talks
-  - Quantum Computing(with **$\Phi$@I**) - _Dhruva Sambrani_
-- Faculty talks
-  - Computational Quantum Mechanics(with **Curie**) - _Prof. Balanarayan_
 - Science Hackathons
   - Darwin-Hackathon(with **Darwin Club**)
-  - Code-the-Matrix(with **$\Phi$@I**)
-- egg-paratha(Computational Physics sessions)
+  - Schrodinger Week(with **$\Phi$@I**)
+- Recreational Programming
+  - Code-Golf
+- Fun Stuff
+  - Treasure Hunt
+  - Explain it badly
 
 ---
 
@@ -66,13 +65,6 @@ Computers have been extremely useful in Science. Physics, Bio, Chem Math... lite
 
 Atomic Configuration
 
-# Computers in Art
-
-Computers are a way to let your let your creativity flow and it forms a way to express yourself. Look at any game, people are literally creating new worlds, imagining completely new Physics!
-
----
-
-![Wolfram Cellular Automata Rule 26](wrCA.png)
 
 # Computers Themselves
 
@@ -83,39 +75,29 @@ Obviously we also explore the beautiful world of computers and applications of t
 ## Related Events
 
 - Functional Programming - _Prof. Shane D'Mello_
+- Numerical Computations, Accuracy and Analysis - _Prof. Kapil H Paranjape_
 - Machine Learning - _Sayar_
 - Cyber Security - _Vineet_
 - Web designing - _Vineet_
-- Arduino in Python - **Robotics Club**
+- Arduino in Python - _**Robotics Club**_
 
----
-
-![Cyber Security Event](event.jpeg)
-.
-.
 
 # Fun events
 
 ## Turing Hunt - Virtual Treasure Hunt
 
-![Map](turinghunt/1.jpeg)
+<img src="turinghunt/1.png" width="600">
+<br/>Map
 
 ---
 
-![THunt](turinghunt/2.jpeg)
+![Trailer](final_trailer.mp4)
 
 ---
 
-![THunt](turinghunt/3.jpeg)
+![Turing Treasure Hunt Team and the Winners](event.png)
 
 
-# Building the digital world
-
-## An online election system for IISERM
-
-[https://iiserm.github.io/poll-app](https://iiserm.github.io/poll-app)
-
-## This presentation
 
 # That was our past
 
@@ -123,16 +105,28 @@ Obviously we also explore the beautiful world of computers and applications of t
 
 ---
 
-- Virtual Treasure Hunt
-- CFFS(an open-ended science hackathon between IISERs)
-- Talk series on Computers in Science
+- IIMER, the Video Game
+- Talk series on Extensive need of Computation in all field of Sciences
 - Turing Week
-- Competitive Programming Oriented Sessions
-- Casual Coding Hangouts
+- More Hackathons with other clubs
 
 # We Don't Just Explore Worlds, We Build Them!
 
 [https://iiserm.github.io/turing-club](https://iiserm.github.io/turing-club)
+
+
+# IISER Mohali Stack Exchange(IMSE)
+
+<img src="imse.png" width="300">
+
+---
+
+The club set up a discord server where the student community could exchange coding ideas,discuss doubts related to their work, and help each other in general in debugging!
+
+---
+<img src="discord_imse.jpeg" width="400">
+<br/>Discord Server
+
 
 # Thank You
 
