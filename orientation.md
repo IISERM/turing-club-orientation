@@ -5,16 +5,16 @@ date: 06-11-2022
 slideNumber: true
 ---
 
-# Hello MS-22!
+# Hello MS-23!!
 
 ---
 
 Faculty Incharge: Dr. Vaibhav Vaish
 
 Convener: Aditya Jain
-
-Co-Convener: Kaushik Gupta and Ahir Ghosh
-
+ 
+Co-Convener: Kaushik Gupta and Rajnil Mukherjee!
+ 
 ## Who we are
 
 Turing Club is a group of students who feel that Computers are more than just tools to make pdfs.
@@ -33,14 +33,15 @@ Computers have been extremely useful in Science. Physics, Biology, Chemistry, Ma
 
 ## Last Year
 
-- Science Hackathons
+- Our First turing week (A week where we host lots of events and workship for you to learn, tinker and enjoy!!)
+  - Interesting talks with students and professors.
+  - Treasure hunt
+  - Interactive Robotics workshop (with **Robotics Club obv**)
   - Darwin-Hackathon(with **Darwin Club**)
-  - Schrodinger Week(with **$\Phi$@I**)
-- Recreational Programming
-  - Code-Golf
+  
 - Fun Stuff
-  - Treasure Hunt
-  - Explain it badly
+  - Date-A Programmer
+  - Techtionary
 
 ---
 
@@ -70,7 +71,7 @@ Atomic Configuration
 
 ---
 
-Obviously we also explore the beautiful world of computers and applications of them in enhancing our lives
+Obviously we also explore the beautiful world of computers and applications of them in enhancing our lives and academic purposes. 
 
 ## Related Events
 
@@ -105,9 +106,9 @@ Obviously we also explore the beautiful world of computers and applications of t
 
 ---
 
-- IIMER, the Video Game
+- Adding new features for our app **Insight** to serve the IISER community.
 - Talk series on Extensive need of Computation in all field of Sciences
-- Turing Week
+- More Turing Week
 - More Hackathons with other clubs
 
 # We Don't Just Explore Worlds, We Build Them!
