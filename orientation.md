@@ -1,7 +1,7 @@
 ---
 title: Turing Club Orientation
 theme: black
-date: 06-11-2023
+date: 27-08-2023
 slideNumber: true
 ---
 
@@ -9,13 +9,11 @@ slideNumber: true
 
 ---
 
-Faculty Incharge: Dr. Vaibhav Vaish
-
 Convener: Aditya Jain
  
 Co-Convener: Kaushik Gupta and Rajnil Mukherjee!
  
-## Who we are
+## Who are we
 
 Turing Club is a group of students who feel that Computers are more than just tools to make pdfs.
 
@@ -25,7 +23,7 @@ Turing Club is a group of students who feel that Computers are more than just to
 
 We are people who code for science, for building the digital world and obviously for fun.
 
-# Computers in Science
+# Computation in Science
 
 ---
 
@@ -33,15 +31,31 @@ Computers have been extremely useful in Science. Physics, Biology, Chemistry, Ma
 
 ## Last Year
 
-- Our First turing week (A week where we host lots of events and workship for you to learn, tinker and enjoy!!)
+- Our first Turing Week (A week where we host lots of events and workship for you to learn, tinker and enjoy!!)
   - Interesting talks with students and professors.
   - Treasure hunt
   - Interactive Robotics workshop (with **Robotics Club obv**)
-  - Darwin-Hackathon(with **Darwin Club**)
+  - Darwin-Hackathon(with **BDF Club**)
   
 - Fun Stuff
   - Date-A Programmer
   - Techtionary
+
+---
+
+![Cosmic Dance](cosmic_dance.gif)
+
+---
+
+![Body moving in viscous fluid](hover.gif)
+
+---
+
+![Pendulum Chaos](triple-pendulum-chaos.mp4)
+
+---
+
+![Meteor Shower](some.gif)
 
 ---
 
@@ -75,17 +89,20 @@ Obviously we also explore the beautiful world of computers and applications of t
 
 ## Related Events
 
-- Functional Programming - _Prof. Shane D'Mello_
+- Programming with Haskell - _Prof. Shane D'Mello_
 - Numerical Computations, Accuracy and Analysis - _Prof. Kapil H Paranjape_
-- Machine Learning - _Sayar_
-- Cyber Security - _Vineet_
-- Web designing - _Vineet_
-- Arduino in Python - _**Robotics Club**_
-
+- Parallel Computing - _James_
+- Animation with python - _Nikhil_
+- Workshop on Numpy, Scipy and Matplotlib for Scientific Computing - _Kshitish and Darsh_
+- Introduction to Quantum Computing(collab with Phi@i) - _Nikhil_
 
 # Fun events
 
-## Turing Hunt - Virtual Treasure Hunt
+## A Frozen Enigma - Offline Treasure Hunt
+![Trailer](FE_1.mp4)
+
+
+## Grand Thesis Adventure: Stress City - Virtual Treasure Hunt
 
 <img src="turinghunt/1.png" width="600">
 <br/>Map
@@ -96,7 +113,7 @@ Obviously we also explore the beautiful world of computers and applications of t
 
 ---
 
-![Turing Treasure Hunt Team and the Winners](event.png)
+![Virtual Turing Treasure Hunt Team and the Winners](event.png)
 
 
 
@@ -116,17 +133,12 @@ Obviously we also explore the beautiful world of computers and applications of t
 [https://iiserm.github.io/turing-club](https://iiserm.github.io/turing-club)
 
 
-# IISER Mohali Stack Exchange(IMSE)
+# Insight: The App of IISER-Mohali
 
-<img src="imse.png" width="300">
-
----
-
-The club set up a discord server where the student community could exchange coding ideas,discuss doubts related to their work, and help each other in general in debugging!
+<img src="insight.png" width="500">
 
 ---
-<img src="discord_imse.jpeg" width="400">
-<br/>Discord Server
+<img src="whatsapp.png" width="400">
 
 # Follow us on Instagram
 
@@ -145,6 +157,6 @@ The club set up a discord server where the student community could exchange codi
 
 ## Links and Attributes
 
-All images were either made during Turing Club events or by Individuals associated with the Club. All Rights Reserved to the Club/Individual.
+Most of the images were either made during Turing Club events or by Individuals associated with the Club. All Rights Reserved to the Club/Individual. Some of the animations were taken from Julia Packages and [Bohm](https://www.youtube.com/watch?v=dn2HDzcOQ44)
 
 This document was made using [Pandoc](https://pandoc.org) and [revealjs](https://revealjs.com).
