@@ -1,6 +1,6 @@
 ---
 title: Turing Club Orientation
-theme: black
+theme: moon
 date: 27-08-2023
 slideNumber: true
 ---
@@ -15,7 +15,7 @@ Co-Convener: Kaushik Gupta and Rajnil Mukherjee!
  
 ## Who are we
 
-Turing Club is a group of students who feel that Computers are more than just tools to make pdfs.
+Turing Club is a group of students who feel that Computers are more than just tools to make PDFs.
 
 ![](dp.jpeg)
 
@@ -33,12 +33,11 @@ Computers have been extremely useful in Science. Physics, Biology, Chemistry, Ma
 
 - Our first Turing Week (A week where we host lots of events and workship for you to learn, tinker and enjoy!!)
   - Interesting talks with students and professors.
-  - Treasure hunt
-  - Interactive Robotics workshop (with **Robotics Club obv**)
-  - Darwin-Hackathon(with **BDF Club**)
+  - Treasure Hunt
+  - Interactive Robotics workshop (with **Robotics Club obviously**)
   
 - Fun Stuff
-  - Date-A Programmer
+  - Date-A Programmer (with **Patang Club**)
   - Techtionary
 
 ---
@@ -59,11 +58,11 @@ Computers have been extremely useful in Science. Physics, Biology, Chemistry, Ma
 
 ---
 
-![$\pi$ using Probabilty](probability-pi.gif)
+![Estimating $\pi$ using Probabilty](probability-pi.gif)
 
 ---
 
-![Simulation of Solar System](sol-system.gif)
+![Simulation of our Solar System](sol-system.gif)
 
 ---
 
@@ -94,7 +93,7 @@ Obviously we also explore the beautiful world of computers and applications of t
 - Parallel Computing - _James_
 - Animation with python - _Nikhil_
 - Workshop on Numpy, Scipy and Matplotlib for Scientific Computing - _Kshitish and Darsh_
-- Introduction to Quantum Computing(collab with Phi@i) - _Nikhil_
+- Introduction to Quantum Computing(with **Phi@i**) - _Nikhil_
 
 # Fun events
 
@@ -124,9 +123,9 @@ Obviously we also explore the beautiful world of computers and applications of t
 ---
 
 - Adding new features for our app **Insight** to serve the IISER community.
-- Talk series on Extensive need of Computation in all field of Sciences
-- More Turing Week
-- More Hackathons with other clubs
+- Talk series on Extensive need of Computation in all field of Sciences.
+- More Turing Week!
+- More Hackathons with other clubs!
 
 # We Don't Just Explore Worlds, We Build Them!
 
