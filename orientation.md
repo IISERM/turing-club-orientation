@@ -1,7 +1,7 @@
 ---
 title: Turing Club Orientation
 theme: black
-date: 06-11-2022
+date: 27-08-2023
 slideNumber: true
 ---
 
