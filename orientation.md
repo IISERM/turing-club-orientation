@@ -34,7 +34,7 @@ Computers have been extremely useful in Science. Physics, Biology, Chemistry, Ma
 - Our first Turing Week (A week where we host lots of events and workship for you to learn, tinker and enjoy!!)
   - Interesting talks with students and professors.
   - Treasure Hunt
-  - Interactive Robotics workshop (with **Robotics Club obviously**)
+  - Interactive Robotics workshop (with **Robotics Club**)
   
 - Fun Stuff
   - Date-A Programmer (with **Patang Club**)
@@ -93,7 +93,7 @@ Obviously we also explore the beautiful world of computers and applications of t
 - Parallel Computing - _James_
 - Animation with python - _Nikhil_
 - Workshop on Numpy, Scipy and Matplotlib for Scientific Computing - _Kshitish and Darsh_
-- Introduction to Quantum Computing(with **Phi@i**) - _Nikhil_
+- Introduction to Quantum Computing(with **Phi@i Club**) - _Nikhil_
 
 # Fun events
 
