@@ -132,24 +132,29 @@ Obviously we also explore the beautiful world of computers and applications of t
 [https://iiserm.github.io/turing-club](https://iiserm.github.io/turing-club)
 
 
-# Insight: The App of IISER-Mohali
+## Insight: The App of IISER-Mohali
 
 <img src="insight.png" width="500">
 
----
-<img src="whatsapp.png" width="400">
 
-# Follow us on Instagram
+# Follow and Join us on
 
-<img src="insta.jpeg" width="300">
 
-# Follow us on Twitter
+## Whatsapp Group
 
-<img src="twitter.jpeg" width="300">
+<img src="whatsapp.jpg" width="500">
 
-# Follow us on github
+## Instagram
 
-<img src="github.png" width="300">
+<img src="instagram.jpg" width="500">
+
+## Twitter
+
+<img src="twitter.jpg" width="500">
+
+## Github
+
+<img src="github.jpg" width="500">
 
 
 # Thank You
